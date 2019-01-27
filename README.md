@@ -1,7 +1,6 @@
 # Jsumo-Bot
-Arduino supported Sumo Robot with 3 opponent, and 2 edge sensors.
+Arduino supported Sumo Robot with 3 opponent, and 2 edge sensors. With implemented opponent searching algorithem and PID speed controll.
 
-##
 
 ## Hardware
 - Genesis Arduino Robot Controller (Arduino Nano)
